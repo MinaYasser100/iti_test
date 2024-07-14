@@ -1,5 +1,3 @@
-import 'dart:svg';
-
 void main() {
   int number = 0;
   String name = 'Ahmed';
@@ -15,6 +13,8 @@ void main() {
   print(map);
   List<int> myList = [99, 55, 6, 77];
   myList.add(55);
+  int two_number = 88;
+  String age = '99';
 }
 
 void getMyname() {
