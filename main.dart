@@ -18,6 +18,9 @@ void main() {
   // receive merge
   print(map.length);
   getMyname();
+  // the test merge
+  print('do merge');
+  print(myList.length);
 }
 
 void getMyname() {
