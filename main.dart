@@ -10,4 +10,5 @@ void main() {
     'name': 'Mina',
     'age': '22',
   };
+  print(map);
 }
