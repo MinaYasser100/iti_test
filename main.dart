@@ -15,6 +15,9 @@ void main() {
   myList.add(55);
   int two_number = 88;
   String age = '99';
+  // the test merge
+  print('do merge');
+  print(myList.length);
 }
 
 void getMyname() {
