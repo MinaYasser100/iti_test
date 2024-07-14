@@ -6,4 +6,8 @@ void main() {
   print(name);
   for (int i = 0; i < 8; i++) {}
   print('git hub task');
+  Map<String, String> map = {
+    'name': 'Mina',
+    'age': '22',
+  };
 }
