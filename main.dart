@@ -11,8 +11,6 @@ void main() {
     'age': '22',
   };
   print(map);
-  // test
-  List list = [];
-  for (var element in list) {}
-  print('for each loop');
+  List<int> myList = [99, 55, 6, 77];
+  myList.add(55);
 }
