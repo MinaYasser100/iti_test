@@ -14,4 +14,5 @@ void main() {
   // test
   List list = [];
   for (var element in list) {}
+  print('for each loop');
 }
