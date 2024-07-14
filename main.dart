@@ -11,4 +11,7 @@ void main() {
     'age': '22',
   };
   print(map);
+  // test
+  List list = [];
+  for (var element in list) {}
 }
